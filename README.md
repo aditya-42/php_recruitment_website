@@ -28,7 +28,12 @@ fill your necessary details using forms and can create your application. PHP was
 ### Installation
 
 1. **Clone the Repository**:
+
    ```bash
    git clone https://github.com/yourusername/recruitment-website.git
    cd recruitment-website
    ```
+
+2. **Run on localhost**:
+
+- http://localhost/php_recruitment_website
