@@ -7,15 +7,14 @@ fill your necessary details using forms and can create your application. PHP was
 
 ## Features
 
-- **User Registration**: Users can create an account to submit applications.
-- **Application Form**: A user-friendly form for entering personal and professional details.
+- **User Registration**: Register if you are new user.
+- **Application Form**: Multi-step user registration form.
 - **Data Storage**: Submissions are stored in a JSON file, allowing for easy retrieval and review.
-- **Application Status**: Users can check the status of their applications.
-- **Responsive Design**: The website is designed to be accessible on various devices.
+- **Responsive Design**: Mobile friendly UI using Bootstrap.
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, Bootstrap
 - **Backend**: PHP
 - **Data Storage**: JSON file
 
